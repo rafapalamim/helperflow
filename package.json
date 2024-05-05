@@ -1,0 +1,14 @@
+{
+  "name": "helperflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "@types/node": "^20.12.8",
+    "eslint": "^9.2.0",
+    "globals": "^15.1.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0"
+  }
+}
