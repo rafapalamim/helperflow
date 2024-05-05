@@ -17,7 +17,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"dbaeumer.vscode-eslint@3.0.5"
+				"dbaeumer.vscode-eslint@3.0.5",
+				"vivaxy.vscode-conventional-commits"
 			],
 			"settings": {
 				"extensions.autoUpdate": "false",
